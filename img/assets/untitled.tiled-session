@@ -1,0 +1,65 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "terrainForReal.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "aadw.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 2
+        },
+        "city.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terrain.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "terrainForReal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "untitled.tmx": {
+            "scale": 0.5383333333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 954.798761609907,
+                "y": 538.6996904024768
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Daniel Kamen/Desktop/gameportfolio/img",
+    "last.externalTilesetPath": "C:/Users/Daniel Kamen/Desktop/gameportfolio/img",
+    "last.imagePath": "C:/Users/Daniel Kamen/Downloads",
+    "map.height": 68,
+    "map.lastUsedExportFilter": "JavaScript map files (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 120,
+    "openFiles": [
+        "terrainForReal.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "terrainForReal.tsx",
+        "untitled.tmx",
+        "city.tsx",
+        "terrain.tsx",
+        "aadw.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000"
+}
