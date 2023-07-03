@@ -134,7 +134,7 @@ const backgroundImageHeight = 1000
 const camera = {
   position: {
     x: 0,
-    y: -1000 + scaledCanvas.height,
+    y: -backgroundImageHeight + scaledCanvas.height,
   },
 }
 
